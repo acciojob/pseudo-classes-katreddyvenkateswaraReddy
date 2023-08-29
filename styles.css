@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 :root {
-	--page-background-color: rgb(135, 206, 235);
+	--primary-bg-color: rgb(135, 206, 235);
 }
 
 body {
-	background-color: var(--page-background-color);
+	background-color: var(--primary-bg-color);
     margin: 0;
     padding: 0;
 }
@@ -15,7 +15,7 @@ p:first-child {
 }
 
 p:nth-child(2) {
-	color: #333;
+	color: rgb(0, 0, 0);
 }
 
 p:last-child {
