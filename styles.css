@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 :root {
-	--container-bg-color: rgb(135, 206, 235);
+	--container-background-color: rgb(135, 206, 235);
 }
 
 body {
-	background-color: var(--container-bg-color);
+	background-color: var(--container-background-color);
 }
   
 p:first-child {
