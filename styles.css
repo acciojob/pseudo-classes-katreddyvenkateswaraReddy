@@ -1,12 +1,10 @@
 /*  your css code here. If applicable */
 :root {
-	--primary-bg-color: rgb(135, 206, 235);
+	--container-bg-color: rgb(135, 206, 235);
 }
 
 body {
-	background-color: var(--primary-bg-color);
-    margin: 0;
-    padding: 0;
+	background-color: var(--container-bg-color);
 }
   
 p:first-child {
@@ -23,8 +21,6 @@ p:last-child {
 }
 
 ul {
-	list-style: none;
-    padding: 0;
     width: 50%;
 }
 
